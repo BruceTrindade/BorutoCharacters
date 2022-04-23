@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">BorutoCharacters</string>
+    <string name="title_activity_boruto_theme">BorutoTheme</string>
 </resources>
